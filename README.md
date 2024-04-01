@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @lukasbehammer
 - 🎓 I'm B.Sc. Biomedical Engineering
 - 📚 I'm currently enrolled in M.Sc. Applied Technologies for Medical Diagnostics
+- 🖥️ I currently work as a Software Developer in Research
 - 👀 I’m interested in Medicine, Machine Learning and AI
 - 🌱 I’m currently learning C, SQL and Deep Learning
 - 💞️ I’m looking to collaborate on applications of Machine Learning in the medical field or Life Sciences
 - 📫 You can reach me via @lukasbehammer on Discord
-- 📌 I'm from Germany, currently living in Austria
+- 📌 I'm from Germany, currently living adn working in Austria
 - 📷 My hobby is digital and analog photography
 
 <!---
