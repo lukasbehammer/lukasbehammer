@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning C, SQL and Deep Learning
 - 💞️ I’m looking to collaborate on applications of Machine Learning in the medical field or Life Sciences
 - 📫 You can reach me via @lukasbehammer on Discord
-- 📌 I'm from Germany, currently living adn working in Austria
+- 📌 I'm from Germany, currently living and working in Austria
 - 📷 My hobby is digital and analog photography
 
 <!---
