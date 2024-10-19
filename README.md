@@ -8,7 +8,7 @@
 - 📫 You can reach me via @lukasbehammer on Discord
 - 📌 I'm from Germany, currently living and working in Austria
 - 📷 My hobby is digital and analog photography
-- 🏗️ My latest project is the [vIQA](https://github.com/3dct/vIQA) python pavkage
+- 🏗️ My latest project is the [vIQA](https://github.com/3dct/vIQA) python package
 
 <!---
 lukasbehammer/lukasbehammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
